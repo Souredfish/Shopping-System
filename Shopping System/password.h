@@ -14,4 +14,5 @@ private:
     std::string password;
     int usernameLine = 0;
     int passwordLine = 0;
+    int index;
 };
